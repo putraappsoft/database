@@ -26,7 +26,7 @@
 		<itunes:category text="Music">
 			<itunes:category text="Music Commentary"/>
 		</itunes:category>
-		<itunes:image href="http://putrawebcenter.rf.gd/thumbnail/bp.jpg"/>
+		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/database/main/20201207_200835.jpg"/>
 		<item>
 			<title><![CDATA[BLACKPINK - Light Up the Sky (SUB INDONESIA)]]></title>
 			<description><![CDATA[Tes Doank :)
@@ -40,7 +40,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>205</itunes:duration>
-			<itunes:image href="http://putrawebcenter.rf.gd/thumbnail/bp.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/database/main/20201207_200835.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
