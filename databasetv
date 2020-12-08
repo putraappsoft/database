@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title><![CDATA[TV Online]]></title>
+		<title><![CDATA[LIVE TV]]></title>
 		<description><![CDATA[Mantap]]></description>
 		<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
 		<image>
@@ -26,9 +26,9 @@
 		<itunes:category text="Music">
 			<itunes:category text="Music Commentary"/>
 		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg"/>
+		<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_062138.jpg"/>
 		<item>
-			<title><![CDATA[GTV Streaming Online (Putra Appsoft)]]></title>
+			<title><![CDATA[TVRI Streaming Online (Putra Appsoft)]]></title>
 			<description><![CDATA[pp
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
@@ -36,7 +36,7 @@
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
 			<enclosure url="https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:summary>Pp
+			<itunes:summary>TVRI (SALURAN PEMERSATU BANGSA)
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration></itunes:duration>
