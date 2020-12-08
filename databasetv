@@ -34,12 +34,10 @@
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
-			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
 			<enclosure url="http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:summary>TVRI (SALURAN PEMERSATU BANGSA)
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>1000</itunes:duration>
 			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_061002.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
