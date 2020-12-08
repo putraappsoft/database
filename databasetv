@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 	<channel>
-		<title><![CDATA[LIVE TV]]></title>
+		<title><![CDATA[TV LIVE]]></title>
 		<description><![CDATA[Mantap]]></description>
 		<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
 		<image>
@@ -40,7 +40,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>1000</itunes:duration>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/database/main/20201207_200835.jpg"/>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_061002.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
