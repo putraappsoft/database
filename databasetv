@@ -35,11 +35,11 @@
 			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
-			<enclosure url="https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:summary>TVRI (SALURAN PEMERSATU BANGSA)
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration></itunes:duration>
+			<itunes:duration>1000</itunes:duration>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/database/main/20201207_200835.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
