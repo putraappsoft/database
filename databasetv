@@ -28,31 +28,18 @@
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg"/>
 		<item>
-			<title><![CDATA[BLACKPINK - Light Up the Sky (SUB INDONESIA)]]></title>
-			<description><![CDATA[<div class="slim-video-metadata-info user-text"><div>Dipublikasikan tanggal 25 Nov 2020</div><div class="slim-video-metadata-description">BLACKPINK : Interview di <a href="/results?search_query=%23TokopediaWIB">#TokopediaWIB</a> TV Show
-<a href="/watch?v=y-RKQZsUGM0">https://youtu.be/y-RKQZsUGM0</a>
-
-Avaiable SUBTITLE:
-[ENG SUB] English
-[MAY SUB] Melayu
-[FIL SUB] Filipino
-[THA SUB] Thai
-[VIE SUB] Vietnam
-[KHM SUB] Khmer
-
-turn on the [CC] Subtitle
-
-[NEXT SUB] COMING SOON</div></div>
+			<title><![CDATA[GTV Streaming Online (Putra Appsoft)]]></title>
+			<description><![CDATA[pp
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
-			<enclosure url="https://bit.ly/3gqA5hC" length="3443902" type="video/mp4"/>
+			<enclosure url="https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:summary>Pp
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>205</itunes:duration>
+			<itunes:duration></itunes:duration>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/database/main/20201207_200835.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
