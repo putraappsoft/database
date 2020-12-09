@@ -27,6 +27,22 @@
 		</itunes:category>
 		<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[TVOne Streaming Online]]></title>
+			<description><![CDATA[TVOne Server Lancar
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<enclosure url="http://210.210.155.35/session/8dccf190-3a0b-11eb-923b-99828e40b5bc/qwr9ew/s/s03/02.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:summary>TVOne Server Lancar
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tvone.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
 			<title><![CDATA[SCTV Streaming Online]]></title>
 			<description><![CDATA[SCTV Server Lancar
 ]]></description>
