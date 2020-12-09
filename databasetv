@@ -60,17 +60,17 @@
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[INDOSIAR]]></title>
-			<description><![CDATA[p
+			<title><![CDATA[GTV Streaming Online]]></title>
+			<description><![CDATA[ini
 ]]></description>
 			<link>https://anchor.fm/database/episodes/SECRET-NUMBER---Got-That-Boom-end4p3</link>
 			<guid isPermaLink="false">a2f3ed74-658a-427f-aaf3-b961ac8ece74</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
-			<enclosure url="https://bit.ly/36WrLDd" length="3603311" type="video/m3u8"/>
+			<enclosure url="https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8" length="3603311" type="video/m3u8"/>
 			<itunes:summary>Liriknya
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_061358.jpg"/>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/gtv.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
