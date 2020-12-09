@@ -27,6 +27,22 @@
 		</itunes:category>
 		<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[Net TV Streaming Online]]></title>
+			<description><![CDATA[Net Server Lancar
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<enclosure url="https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1607565089/ei/wSrRX9bkLY-Z3LUP1IaC0A4/ip/182.0.141.19/id/FWa92qKiY5M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYYUcqwIxB9H0R-sSlYEwJOxEA4Hj-jcNsRsYGsznE0ICIQCiAsa-lZAvD-knDCuws_odXuU0P1VoKEg5_tk8VyynvQ%3D%3D/file/index.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:summary>Net Server Lancar
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/net.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
 			<title><![CDATA[KOMPAS TV Streaming Online]]></title>
 			<description><![CDATA[Kompas Server Lancar
 ]]></description>
