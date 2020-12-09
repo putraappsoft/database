@@ -60,19 +60,17 @@
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
-			<title><![CDATA[SECRET NUMBER - Got That Boom]]></title>
-			<description><![CDATA[Liriknya
+			<title><![CDATA[INDOSIAR]]></title>
+			<description><![CDATA[p
 ]]></description>
 			<link>https://anchor.fm/database/episodes/SECRET-NUMBER---Got-That-Boom-end4p3</link>
 			<guid isPermaLink="false">a2f3ed74-658a-427f-aaf3-b961ac8ece74</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
-			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
-			<enclosure url="https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8" length="3603311" type="video/m3u8"/>
+			<enclosure url="https://gi" length="3603311" type="video/m3u8"/>
 			<itunes:summary>Liriknya
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>205</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11147782/11147782-1607169576146-590b51907c8fd.jpg"/>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_061358.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
