@@ -27,6 +27,22 @@
 		</itunes:category>
 		<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[DAAI TV Streaming Online]]></title>
+			<description><![CDATA[DAAI TV Server Lancar
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<enclosure url="https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:summary>DAAITV Server Lancar
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/daai.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
 			<title><![CDATA[Berita Satu Streaming Online]]></title>
 			<description><![CDATA[Berita Satu Lancar
 ]]></description>
