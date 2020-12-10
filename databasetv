@@ -27,6 +27,22 @@
 		</itunes:category>
 		<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[ElshintaTV Streaming Online]]></title>
+			<description><![CDATA[ElshintaTV Server Lancar
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<enclosure url="http://210.210.155.35/qwr9ew/s/s10/01.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:summary>ElshintaTv Server Lancar
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/elshinta.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
 			<title><![CDATA[DAAI TV Streaming Online]]></title>
 			<description><![CDATA[DAAI TV Server Lancar
 ]]></description>
